@@ -1,0 +1,1 @@
+Programa auxiliar para a checagem de lucro
